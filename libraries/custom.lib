@@ -60,6 +60,23 @@ X VI 3 -400 50 200 R 40 40 1 1 I
 ENDDRAW
 ENDDEF
 #
+# Adafruit_uUSB_LiPo_charger
+#
+DEF Adafruit_uUSB_LiPo_charger U 0 40 Y Y 1 F N
+F0 "U" 0 300 60 H V C CNN
+F1 "Adafruit_uUSB_LiPo_charger" 0 200 60 H V C CNN
+F2 "" 0 200 60 H V C CNN
+F3 "" 0 200 60 H V C CNN
+DRAW
+S -200 150 200 -150 0 1 0 N
+X 5V 1 -400 50 200 R 50 50 1 1 W
+X Gnd 2 -400 -50 200 R 50 50 1 1 W
+X Gnd 3 400 50 200 L 50 50 1 1 w
+X Batt 4 400 -50 200 L 50 50 1 1 w
+X Mount 5 0 -350 200 U 50 50 1 1 N N
+ENDDRAW
+ENDDEF
+#
 # CD4511
 #
 DEF CD4511 U 0 40 Y Y 1 F N

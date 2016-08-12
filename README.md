@@ -13,4 +13,5 @@ Contents:
 - Sparkfun analog joystick
 - Teensy 3.1
 - Sparkfun tilt sensor with mounting support
+- Adafruit uSB LiPo charger breakout
 - ... many others we have compiled from the internet.
