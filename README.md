@@ -14,4 +14,6 @@ Contents:
 - Teensy 3.1
 - Sparkfun tilt sensor with mounting support
 - Adafruit uSB LiPo charger breakout
-- ... many others we have compiled from the internet.
+- Rotary 5P2T switch
+- L293D H-bridge.
+- Plus many others we have compiled from the internet.
